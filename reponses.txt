@@ -1,0 +1,3 @@
+a-Contrairement au git fetch, git pull vas modifier votre branche courante en la mergent avec sa référence du serveur distant.
+b- 
+
